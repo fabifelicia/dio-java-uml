@@ -9,11 +9,15 @@ Com base no [video](https://www.youtube.com/watch?v=9ou608QQRq8) de lançamento 
 ## Funcionalidades a Modelar
 
    - Reprodutor Musical
-     -- Métodos: tocar(), pausar(), selecionarMusica(String musica)
+   - Métodos: tocar(), pausar(), selecionarMusica(String musica)
    - Aparelho Telefônico
-     -- Métodos: ligar(String numero), atender(), iniciarCorreioVoz()
+   - Métodos: ligar(String numero), atender(), iniciarCorreioVoz()
    - Navegador na Internet
-     -- Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
+   - Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
 
 ### Objetivo
 1. Criar um diagrama UML que represente as funcionalidades descritas acima.
+
+![Captura de tela 2025-03-25 160122](https://github.com/user-attachments/assets/797081b0-4708-4022-b590-d020e814a809)
+
+   
